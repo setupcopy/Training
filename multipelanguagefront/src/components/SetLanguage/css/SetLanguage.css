@@ -1,0 +1,11 @@
+.divRoot {
+    width: 450px;
+    height: 830px;
+    border: 1px black solid;
+    display: block;
+    align-items: flex-end;
+}
+.divSubmit {
+    display: flex;
+    justify-content: flex-end;
+}

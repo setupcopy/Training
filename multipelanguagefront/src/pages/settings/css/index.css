@@ -1,0 +1,8 @@
+.containerRoot {
+    display: flex;
+    background: blue;
+}
+
+.BoxRoot {
+    margin-top: 50px;
+}
